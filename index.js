@@ -66,7 +66,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 0.15,
           animate: true,
-          dialogue: ['Momo: Wake up snorlax, Have you seen Afridi?.', 'Snorlax: Master, let me sleep a bit.','Snorlax: Zzzzzzzzzzzzzzz.....','Momo: Ughh this lazy idiot.']
+          dialogue: ['Momo: Wake up snorlax','Momo: Have you seen Afridi?', 'Snorlax: Master, let me sleep a bit.','Snorlax: Zzzzzzzzzzzzzzz.....','Momo: Ughh this lazy idiot.']
           
         })
       );
